@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/param/persnal_learning/project_to_upload_on_git/page_turning_project/app/src/main/res/layout/activity_abc.xml" value="0.1796875" />
+        <entry key="..\:/Users/param/persnal_learning/project_to_upload_on_git/page_turning_project/app/src/main/res/layout/activity_abc_avtivity.xml" value="0.1796875" />
+        <entry key="..\:/Users/param/persnal_learning/project_to_upload_on_git/page_turning_project/app/src/main/res/layout/activity_main.xml" value="0.165625" />
+        <entry key="..\:/Users/param/persnal_learning/project_to_upload_on_git/page_turning_project/app/src/main/res/layout/fragment_page.xml" value="0.1796875" />
+        <entry key="..\:/Users/param/persnal_learning/project_to_upload_on_git/page_turning_project/app/src/main/res/layout/fragment_page1.xml" value="0.1796875" />
+        <entry key="..\:/Users/param/persnal_learning/project_to_upload_on_git/page_turning_project/app/src/main/res/layout/fragment_page2.xml" value="0.1796875" />
+        <entry key="..\:/Users/param/persnal_learning/project_to_upload_on_git/page_turning_project/app/src/main/res/layout/fragment_test.xml" value="0.1796875" />
+        <entry key="..\:/Users/param/persnal_learning/project_to_upload_on_git/page_turning_project/app/src/main/res/layout/pdf_toolbar.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
